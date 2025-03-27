@@ -1,6 +1,6 @@
-# 🌟 Solana Token Burn DApp 🌟
+# 🌟 Solana Token 2022 Burn DApp 🌟
 
-Welcome to the **Solana Token Burn DApp**! This application allows users to burn their Solana tokens easily. It is built using **React** and **Vite** and is currently deployed on the **Solana Devnet**.
+Welcome to the **Solana Token 2022 Burn DApp**! This application allows users to burn their Solana tokens easily. It is built using **React** and **Vite** and is currently deployed on the **Solana Devnet**.
 
 ---
 
