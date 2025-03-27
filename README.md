@@ -10,9 +10,7 @@ Welcome to the **Solana Token Burn DApp**! This application allows users to burn
 
 ---
 
-## ✏️ How to Edit the Code
-
-There are several ways to edit your application:
+## ✏️ How to Run the Code
 
 ### 1. Use Your Preferred IDE
 
