@@ -21,7 +21,7 @@ If you want to work locally using your own IDE, follow these steps:
 git clone https://github.com/CodeWithAbbass/TokenBurn.git
 
 # Step 2: Navigate to the project directory.
-cd TokenBurn
+cd Burn_SolanaToken2022
 
 # Step 3: Install the necessary dependencies.
 npm install --force
