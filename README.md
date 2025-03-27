@@ -1,69 +1,24 @@
-# Welcome to your Lovable project
+# Solana Token Burn DApp
 
-## Project info
+Welcome to the Solana Token Burn DApp! This application allows users to burn their Solana tokens easily. It is built using React and Vite and is currently deployed on the Solana Devnet.
 
-**URL**: https://lovable.dev/projects/d20b0b4d-a9f2-46d7-b082-0144faeb5efb
+## Table of Contents
+- [Project Info](#project-info)
+- [How to Edit the Code](#how-to-edit-the-code)
+- [Technologies Used](#technologies-used)
+- [Deployment Instructions](#deployment-instructions)
+- [Migrating to Mainnet](#migrating-to-mainnet)
 
-## How can I edit this code?
+## Project Info
 
-There are several ways of editing your application.
+**URL**: [Token Burn DApp](https://github.com/CodeWithAbbass/TokenBurn)
 
-**Use Lovable**
+## How to Edit the Code
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/d20b0b4d-a9f2-46d7-b082-0144faeb5efb) and start prompting.
+There are several ways to edit your application:
 
-Changes made via Lovable will be committed automatically to this repo.
+### Use Your Preferred IDE
 
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with .
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/d20b0b4d-a9f2-46d7-b082-0144faeb5efb) and click on Share -> Publish.
-
-## I want to use a custom domain - is that possible?
-
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
+1. Clone the repository using the project's Git URL.
+   ```bash
+   git clone https://github.com/CodeWithAbbass/TokenBurn
