@@ -21,7 +21,7 @@ If you want to work locally using your own IDE, follow these steps:
 
 ```bash
 # Step 1: Clone the repository using the project's Git URL.
-git clone https://github.com/CodeWithAbbass/TokenBurn.git
+git clone https://github.com/CodeWithAbbass/Burn_SolanaToken2022
 
 # Step 2: Navigate to the project directory.
 cd Burn_SolanaToken2022
