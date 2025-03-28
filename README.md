@@ -13,7 +13,7 @@ Welcome to the **Solana Token 2022 Burn DApp**! This application allows users to
 
 ---
 
-## ✏️ How to Run the Code
+## ✏️ Getting Started
 
 ### 1. Use Your Preferred IDE
 
