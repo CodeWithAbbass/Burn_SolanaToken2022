@@ -1,7 +1,8 @@
-![Alt text](https://burn-solanatoken2022.vercel.app/Burn_SolanaToken2022.png)
-
 
 # 🌟 Solana Token 2022 Burn DApp 🌟
+
+![Alt text](https://burn-solanatoken2022.vercel.app/Burn_SolanaToken2022.png)
+
 
 Welcome to the **Solana Token 2022 Burn DApp**! This application allows users to burn their Solana tokens easily. It is built using **React** and **Vite** and is currently deployed on the **Solana Devnet**.
 
